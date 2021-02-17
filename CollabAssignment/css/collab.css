@@ -1,0 +1,62 @@
+header.masthead {
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 4.5rem);
+    background: linear-gradient(to bottom, rgba(121, 115, 112, 0.452) 0%, rgba(92, 77, 66, 0.404) 100%), url("../images/gears.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+
+h1, h2 {
+    text-shadow: rgba(233,194,120,255) 3px 3px;
+}
+
+header.masthead p {
+    font-size: 1.8em;
+    font-style: italic;
+    text-shadow: 1px 2px  rgb(219,92,76);
+    margin-top: 1em;
+
+}
+
+.h2 {
+    text-shadow: 1px 2px rgb(28,156,164);
+    color: white;
+}
+
+.hr2 {
+    border-top:rgb(28,156,164) 8px dotted;
+    width: 30%;
+}
+
+.hr1 {
+    border-top: rgb(219,92,76) 8px dotted;
+    width: 30%;
+}
+
+.yellow {
+    background-color: rgb(233,194,120,255);
+}
+
+p {
+    color: white;
+    font-weight: bold;
+}
+.icon {
+    color: rgb(219,92,76);
+    font-size: 3em;
+}
+
+#portfolio {
+    border-top: rgb(233,194,120,255) 25px double;
+    padding-top: 2em;
+}
+
+.image {
+   border:rgb(28,156,164) 8px outset;
+}
+
+.blank {
+    background-color: rgb(28,156,164);
+}
