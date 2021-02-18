@@ -57,6 +57,26 @@ p {
    border:rgb(28,156,164) 8px outset;
 }
 
+.image2 {
+    border:rgb(219,92,76) 8px outset;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
 .blank {
     background-color: rgb(28,156,164);
+}
+
+.links {
+    text-decoration: none;
+    text-shadow: 1px 2px white;
+    font-weight: bolder;
+    font-size: 1.5em;
+    list-style: none;
+}
+
+.links a:hover {
+    text-decoration: none;
+    font-size: 1.2em;
 }
